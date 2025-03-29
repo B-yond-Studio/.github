@@ -4,7 +4,7 @@
   <img src="../assets/b-yond.jpeg" alt="Logo B-yond Studio" width="140">
 </div>
 
-> Every project is a chance to see things anew, to try the untried, and go beyond the expected.
+*Every project is a chance to see things anew, to try the untried, and go beyond the expected.*
 
 ## 📋 About our studio
 
