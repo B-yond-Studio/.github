@@ -39,7 +39,7 @@ Boost engagement with live chat, Q&As, polls, word clouds, and a feedback wall. 
 
 URL: https://www.maziapp.io/
 
-## ✉️ Contato
+## ✉️ Contact
 
 More information about the company:
 
